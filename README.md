@@ -1,11 +1,12 @@
 Привет, я Ратахук (Leonid Ratahook), в этом канеле будут приведены ссылки на все мои каналы, ресурсы, соц сети и тому подобное. Решил что лучше всему этому быть в одном месте.
 
 Я в тг:
-t.me/ratahook
-t.me/ratahook_chat
-t.me/ratahook_about
-t.me/ratahook_alerts
-t.me/ratahook_writer
+https://t.me/ratahook
+https://t.me/ratahook_chat
+https://t.me/ratahook_about
+https://t.me/ratahook_alerts
+https://t.me/ratahook_writer
+
 Если вы хотите админить ныне мёртвые проекты, то милости прошу...
 
 Мои стримы/видео:
@@ -22,15 +23,15 @@ Github: https://github.com/Ratahook
 Twitter: https://twitter.com/Leonid_Ratahook
 
 Проект Фотокарточки:
-Вк: vk.com/the_photocards
-Тг: t.me/the_photocards
+Вк: https://vk.com/the_photocards
+Тг: https://t.me/the_photocards
 
 Ещё проекты где я админю:
-t.me/idtikhonqa
-t.me/@jmp_ebx
-t.me/LP_vol
-t.me/fake_Massaraksh
-t.me/SituaciaRatahook 
+https://t.me/idtikhonqa
+https://t.me/@jmp_ebx
+https://t.me/LP_vol
+https://t.me/fake_Massaraksh
+https://t.me/SituaciaRatahook 
 
 
 
