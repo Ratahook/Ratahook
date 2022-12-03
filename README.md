@@ -12,18 +12,10 @@ https://t.me/ratahook_alerts
 
 https://t.me/ratahook_writer
 
-Если вы хотите админить ныне мёртвые проекты, то милости прошу...
-
-
 Мои стримы/видео:
 Youtube: https://www.youtube.com/c/LeonidRatahook
 
 Twitch: https://www.twitch.tv/leonid_ratahook
-
-GoodGame: https://goodgame.ru/channel/Ratahook
-
-Trovo: https://trovo.live/Leonid_Ratahook
-
 
 Я в сетях:
 Instagram: instagram.com/leonid_ratahook
@@ -41,22 +33,6 @@ Twitter: https://twitter.com/Leonid_Ratahook
 Вк: https://vk.com/the_photocards
 
 Тг: https://t.me/the_photocards
-
-
-Ещё проекты где я админю:
-
-https://t.me/idtikhonqa
-
-https://t.me/@jmp_ebx
-
-https://t.me/LP_vol
-
-https://t.me/fake_Massaraksh
-
-https://t.me/SituaciaRatahook 
-
-
-
 
 Поддержать меня:
 Донатилка: https://www.donationalerts.com/r/ratahook
