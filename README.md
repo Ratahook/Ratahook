@@ -1,6 +1,6 @@
-Привет, я Ратахук (Leonid Ratahook), стример, фотограф, криптоанархист, начинающий кодер, здесь будут приведены ссылки на все мои каналы, ресурсы, соц сети и тому подобное. Решил что лучше всему этому быть в одном месте.
+Hi, it`s Leonid Ratahook — livestreamer, photographer, cryptocurrency evangelist, intern coder. Well, I posted links on some of my resorses down below.
 
-Я в тг:
+Me in Telegram:
 
 https://t.me/ratahook
 
@@ -12,33 +12,27 @@ https://t.me/ratahook_alerts
 
 https://t.me/ratahook_writer
 
-Мои стримы/видео:
+My livestreams/videos:
+
 Youtube: https://www.youtube.com/c/LeonidRatahook
 
 Twitch: https://www.twitch.tv/leonid_ratahook
 
-Я в сетях:
+Another links:
 Instagram: instagram.com/leonid_ratahook
 
-Вк: https://vk.com/leonid_ratahook
-
-Дискорд: https://discord.gg/Zc4F8az94x
+Discord: https://discord.gg/Zc4F8az94x
 
 Github: https://github.com/Ratahook
 
 Twitter: https://twitter.com/Leonid_Ratahook
 
 
-Проект Фотокарточки:
-Вк: https://vk.com/the_photocards
+Support me:
 
-Тг: https://t.me/the_photocards
+Donats: https://www.donationalerts.com/r/ratahook
 
-Поддержать меня:
-
-Донатилка: https://www.donationalerts.com/r/ratahook
-
-Бусти: https://boosty.to/ratahook
+Boosty: https://boosty.to/ratahook
 
 BTC bc1qjr4d7axnhtgu9clfd5dnrryzk0v7u27xa59tgy
 
