@@ -4,30 +4,13 @@ Me in Telegram:
 
 https://t.me/ratahook
 
-https://t.me/ratahook_chat
-
 https://t.me/ratahook_about
-
-https://t.me/ratahook_alerts
-
-https://t.me/ratahook_writer
 
 My livestreams/videos:
 
 Youtube: https://www.youtube.com/c/LeonidRatahook
 
 Twitch: https://www.twitch.tv/leonid_ratahook
-
-Another links:
-
-Instagram: instagram.com/leonid_ratahook
-
-Discord: https://discord.gg/Zc4F8az94x
-
-Github: https://github.com/Ratahook
-
-Twitter: https://twitter.com/Leonid_Ratahook
-
 
 Support me:
 
