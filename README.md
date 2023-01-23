@@ -1,6 +1,6 @@
 Hi, it`s Leonid Ratahook — livestreamer, photographer, cryptocurrency evangelist, intern coder. Well, I posted links on some of my resorses down below.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratahook)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratahook)](https://github.com/Ratahook/github-readme-stats)
 
 Me in Telegram:
 
