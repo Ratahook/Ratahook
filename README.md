@@ -4,17 +4,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratahook&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ratahook&theme=dark_lover&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h4 align="center"> Well, I posted links on some of my resorses down below. </h4>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ratahook)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LeonidRatahook)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/leonid_ratahook)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) 
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
-<h5> <a href="https://t.me/Leonid_Ratahook" target="_blank">Me in Telegram</a> </h5>
-
-<h5> <a href="https://t.me/ratahook" target="_blank">My telegram blog</a> </h5>
-
-<h5>  <a href="https://www.youtube.com/c/LeonidRatahook" target="_blank">My livestreams/videos</a> </h5>
-
-<h5> Support me: <a href="https://www.donationalerts.com/r/ratahook" target="_blank">Donats</a> </h5>
+<h5> <a href="https://www.donationalerts.com/r/ratahook" target="_blank">Support me</a> </h5>
 
 <h5> BTC bc1qjr4d7axnhtgu9clfd5dnrryzk0v7u27xa59tgy </h5>
+<h5> XMR 47zsJUbmLBP7cNaBjQaWj69xRdDLA7B51eLsCyuvaU6rDhgtfaz4FKxZddnuKUxT2Y1Xz7TTxAzEsASGPS95FFtsJTuaVXW </h5>
 
 <!---
 Ratahook/Ratahook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
