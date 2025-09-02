@@ -3,6 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratahook&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ratahook&theme=dark_lover&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Ratahook)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ratahook)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/LeonidRatahook)
