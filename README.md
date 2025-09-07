@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://t.me/ratahook_about" target="_blank">Leonid Ratahook</a> 🦊🏴‍☠️</h1>
-<h3 align="center">Livestreamer, cryptocurrency evangelist, intern programmer.</h3>
+<h3 align="center">Livestreamer, cryptocurrency evangelist, intern developer.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratahook&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ratahook&theme=dark_lover&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
